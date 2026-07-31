@@ -1,5 +1,7 @@
 package entities;
 
+import entities.enums.Position;
+
 public class Player {
 
     private String name;

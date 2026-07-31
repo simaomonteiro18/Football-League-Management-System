@@ -1,6 +1,7 @@
 package entities;
 
-import services.InvalidTeamsException;
+import entities.enums.Position;
+import entities.exceptions.InvalidTeamsException;
 
 import java.util.ArrayList;
 import java.util.Comparator;
