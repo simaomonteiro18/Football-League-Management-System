@@ -1,4 +1,4 @@
-# Sistema de Gestão de Liga de Futebol
+# Football League Management System
 
 Aplicação de consola em Java para gerir uma liga de futebol: regista equipas, jogadores e jogos, calcula a classificação automaticamente e produz estatísticas sobre a competição.
 
